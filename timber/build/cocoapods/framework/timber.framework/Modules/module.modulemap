@@ -1,0 +1,6 @@
+framework module timber {
+  umbrella header "placeholder.h"
+
+  export *
+  module * { export * }
+}
