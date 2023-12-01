@@ -1,5 +1,7 @@
 # Binance App Clone(Market Section) Using KMP & Compose Multiplatform
 
+https://github.com/ChainTechNetwork/Kmp-cryptocurrency-market/assets/143475887/afec5171-2e35-4684-a512-b72e445f6c8c
+
 This is a Binance App Clone(Market) built using Kotlin Multiplatform & Compose Multiplatform UI that works on Android, iOS platforms.
 
 This demo will diplay realtime price of cryptocurrency like BTC, ETH and many more
