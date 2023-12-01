@@ -1,4 +1,4 @@
-#Binance App Clone(Market) Using KMP and Compose Multiplatform
+# Binance App Clone(Market Section) Using KMP & Compose Multiplatform
 
 This is a Binance App Clone(Market) built using Kotlin Multiplatform & Compose Multiplatform UI that works on Android, iOS platforms.
 
